@@ -1,4 +1,4 @@
-# lux_ai_season2_5th
+# 5th place gold medal solution for Kaggle Lux AI Season 2
 This repository provides the code for the 5th place gold medal solution for Kaggle Lux AI Season 2.
 
 For a more elaborate description see:
